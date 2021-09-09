@@ -1,0 +1,6 @@
+WARNING: The automated setup uses publicy and test-purpose bscscan API. Use yours for more reliable bsc scanning.
+
+IMPORTANT: This automated setup is gonna start a light Ethereum node on port 8550 of your machine. This could impact on disk space (some hundred megabytes), I/O (especially in the first 10 minutes) and network activity.
+
+To automatically resolve dependencies and install what is needed to run the script, please run:
+sh install.sh
